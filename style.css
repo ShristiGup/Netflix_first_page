@@ -90,7 +90,7 @@ html{
     padding: 10px 0;
     background-image: linear-gradient(45deg, rgba(
         0,0,0,0.6), rgba(
-            0,0,0,0.4)), url('https://shristigup.github.io/images/background.jpg');
+            0,0,0,0.4)), url('images/background.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: scroll;
